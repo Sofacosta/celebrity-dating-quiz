@@ -6,3 +6,11 @@ p {
   margin: 50px;
   background-color: rgb(106, 148, 255);
 }
+
+#spongeBob {
+  display: none;
+}
+
+#shakira {
+  display: none;
+}
